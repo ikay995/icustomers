@@ -1,0 +1,26 @@
+[
+      {
+            "id": 1,
+            "name": "tania omotayo",
+            "city": " Lagos ",
+            "orderTotal": 40.99
+      },
+      {
+            "id": 2,
+            "name": "james edet",
+            "city": "Abuja ",
+            "orderTotal": 89.99
+      },
+      {
+            "id": 3,
+            "name": "john thomas",
+            "city": " Cross River ",
+            "orderTotal": 29.99
+      },
+      {
+            "id": 4,
+            "name": "tina adams",
+            "city": "Port Harcourt",
+            "orderTotal": 15.99
+      }
+]
